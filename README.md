@@ -8,10 +8,12 @@ Repo này minh họa cơ chế **xác thực bằng JWT (JSON Web Token)** trong
 - Lấy thông tin Profile (cần token hợp lệ)
 
 ---
+# Cài dependencies
+npm install
 
-##  Cách chạy
-npm install express
+# Chạy server
 node app.js
+
 
 ## Kết Quả Test
 
